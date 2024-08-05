@@ -1,0 +1,6 @@
+ShipID,ShipName,ShipType,Capacity,YearBuilt
+1,"Mitchell, Barton and Wall",Tanker,138172,2010
+2,"Taylor, Carney and Ashley",Tanker,136169,1987
+3,Yang LLC,Passenger,36546,2012
+4,Rivera Inc,Cargo,151695,2008
+5,Watson LLC,Passenger,32664,2010

@@ -1,0 +1,61 @@
+DeviceID,DeviceType,LocationID,LocationType,InstallationDate,Status
+c8d3acee-d370-451f-98e2-ba4ccd84344b,Temperature Sensor,6239f30a-7052-4bb6-90c6-735014b3f264,Ship,2023-11-26,Inactive
+0b2f72ef-ec09-49b8-a924-b159b9c3a78f,GPS,0a4e6eb7-f97b-4d62-9c95-27d081ffbbc1,Ship,2023-03-03,Maintenance
+86a29efb-7af0-4f69-bd20-98c6c2de5950,Humidity Sensor,90b6e394-4482-46e9-863c-6992116febe7,Ship,2023-01-10,Inactive
+2a364435-eda0-4e30-bf74-1d1ca8936bd3,Humidity Sensor,3,Container,2022-10-04,Active
+49ac2f36-b202-454f-a2a1-0ce2d545de36,GPS,66f1b0a0-7a1a-462b-ba13-834fde8e3228,Ship,2022-11-18,Maintenance
+7bd37c4b-948c-42c8-a0f2-4eb3af58e381,Pressure Sensor,aa648f16-f035-4088-9a2b-f7fe4d7e4449,Ship,2024-07-02,Active
+b50a676c-06fc-4ff0-a9e4-f06c36890df9,Temperature Sensor,1c67556d-79ac-4843-93b2-cc1593098549,Container,2024-05-21,Inactive
+998b1e1c-9f81-4ca3-bfb1-c2c97448f798,Temperature Sensor,6239f30a-7052-4bb6-90c6-735014b3f264,Ship,2024-01-02,Inactive
+2c645b82-abbe-4d4f-b9e5-90e4d36d8076,Humidity Sensor,579e9b08-5db1-4edf-ba29-559dc81a58a6,Container,2023-06-17,Inactive
+9411723a-50b4-47eb-b111-f1d19c8fe812,GPS,be725448-51b5-4b77-909e-1abb976ae5fb,Container,2022-12-24,Inactive
+91609261-6e10-4e22-ba71-99d653e82886,Temperature Sensor,3ff0e579-01c3-4f91-8327-8f64cae1367a,Ship,2023-01-06,Inactive
+a0e5bd8c-dd75-44bc-9d82-016dc4fa9dd1,Humidity Sensor,120a202f-e11a-45c3-a5ef-c3a9503a65d5,Container,2024-06-11,Inactive
+643580a0-6df5-42aa-832c-b6a724e2e13a,Humidity Sensor,aef472a7-5821-4f30-a31b-9123b9ab308f,Container,2023-11-05,Maintenance
+4b9368d9-6188-4ea0-9e5e-cd0a3cbafcaa,GPS,aef472a7-5821-4f30-a31b-9123b9ab308f,Ship,2022-08-18,Active
+f66b72a9-4142-452b-b61c-57ab3d992624,Temperature Sensor,4,Ship,2023-05-04,Active
+dda9a02a-964f-4dde-8955-85be3de674fe,GPS,6245b749-b9a6-4dc1-899f-b91b808ea422,Container,2023-09-26,Maintenance
+f13a9049-5f3f-4533-a28c-fc3ced825ea8,Humidity Sensor,3c74dbc2-c504-444f-a5dc-7c7bcfa88592,Container,2023-12-29,Maintenance
+56756682-996d-4642-bcf8-7ff0749df1ff,Pressure Sensor,1,Ship,2023-08-12,Inactive
+52722246-257e-4412-a215-74899fbd4b9f,Humidity Sensor,a4efedef-24cb-4b4e-b825-a7e1e80d2403,Container,2024-01-13,Active
+c2862234-d815-40dc-a4d8-78a13e5aed83,Temperature Sensor,00556e42-6b49-4a3b-b26c-e972e1dafdd8,Ship,2022-11-11,Active
+89599298-2c48-4f98-8ce6-7bdc41b72448,Temperature Sensor,2,Container,2024-03-13,Active
+1d5f9dfc-98b0-44d7-b5e1-6e19b4642bad,Humidity Sensor,aa648f16-f035-4088-9a2b-f7fe4d7e4449,Container,2024-04-29,Active
+7ad5af81-7267-4417-ac02-3a99e4c80a29,Temperature Sensor,6245b749-b9a6-4dc1-899f-b91b808ea422,Ship,2024-03-02,Inactive
+99aed9de-2e78-43c5-b11b-b2df346eba31,GPS,7ae398cf-8ace-47d3-a73e-f518c6cbb179,Ship,2023-03-03,Active
+b5bcc583-3fc3-4af1-9af0-8b9a5ba1cdb6,Humidity Sensor,579e9b08-5db1-4edf-ba29-559dc81a58a6,Ship,2022-10-07,Active
+7f29e86c-8a73-4eaa-96bb-4fb0cd59bece,Pressure Sensor,1598734a-86c5-4c1b-8923-cba17874166b,Container,2024-07-02,Maintenance
+63c2523d-4b32-4c86-b5d5-870de79d1be2,Pressure Sensor,84c85b95-0637-4a9e-8bb6-2aff3e6fdeb2,Ship,2024-02-15,Inactive
+5a9c60b5-33b8-47d3-8301-c5b945ffa36b,Temperature Sensor,5,Container,2024-01-30,Maintenance
+bb1a48e2-50b9-4e51-a81e-5658d813a70f,Temperature Sensor,aa648f16-f035-4088-9a2b-f7fe4d7e4449,Container,2023-11-27,Active
+f4e35152-312c-4434-8b17-7efd054f0566,GPS,1598734a-86c5-4c1b-8923-cba17874166b,Container,2024-05-28,Active
+29deb76a-d4ce-44b3-9a9a-56bc326ea68d,Temperature Sensor,be2b3272-7a37-4212-a78c-1cdaa7838837,Ship,2024-01-23,Active
+14b8317e-7555-4ded-8ea5-e386d8ce8d9a,Pressure Sensor,5,Ship,2024-06-08,Maintenance
+b04a2620-49ab-45a8-8060-94aa4037fffa,GPS,7ae398cf-8ace-47d3-a73e-f518c6cbb179,Ship,2023-03-09,Inactive
+506e2fc6-d05d-4cb9-ab76-911f7c8765b6,Humidity Sensor,00556e42-6b49-4a3b-b26c-e972e1dafdd8,Container,2024-04-10,Maintenance
+ef6ed981-be23-4d25-ac78-8719d9371f2a,Pressure Sensor,3,Ship,2023-11-13,Active
+62a77dc7-b273-48fc-9fa6-9923b334ebbc,Temperature Sensor,be2b3272-7a37-4212-a78c-1cdaa7838837,Container,2024-02-28,Active
+1d72e0fe-ea28-4858-9d07-edc60df099c5,Humidity Sensor,aa0cc327-1daa-42fc-90b1-5e3da5005582,Container,2023-01-23,Maintenance
+fbb22429-55ab-42c5-8f08-502ee47e3d10,Pressure Sensor,579e9b08-5db1-4edf-ba29-559dc81a58a6,Container,2022-08-08,Active
+9d6fe1b5-4420-463b-834d-fc6428e2f201,GPS,1598734a-86c5-4c1b-8923-cba17874166b,Ship,2024-06-29,Maintenance
+4f12b0d5-7028-4ab4-8f0c-417ab85f2ec4,Humidity Sensor,6250e9f9-08d1-4e63-a7e8-aeae24a703e3,Container,2022-11-24,Maintenance
+da4dda76-6a34-4fb4-a62a-3fb58c46e2bc,Humidity Sensor,82edc5ab-dfde-422d-9429-e0c9664ceba8,Container,2024-05-05,Active
+386b01c0-5ffe-4c11-bb51-aca6ea8760aa,Pressure Sensor,aa0cc327-1daa-42fc-90b1-5e3da5005582,Container,2023-01-12,Maintenance
+b9e789c6-16f4-4941-ad28-3c0df230400a,GPS,9e76ef95-c43e-4bcc-af69-ed695e349e31,Container,2024-03-02,Active
+ca563921-f942-4f1e-bed9-7f9e148680de,Pressure Sensor,120a202f-e11a-45c3-a5ef-c3a9503a65d5,Ship,2023-10-27,Maintenance
+fd6cc364-8191-4beb-975b-f448a0ce5b5f,Temperature Sensor,f146b080-0a2c-46a9-9bd3-839291e54b3a,Container,2024-01-11,Inactive
+952049e4-a8fc-4210-9ac1-5a07047cd56e,Temperature Sensor,579e9b08-5db1-4edf-ba29-559dc81a58a6,Container,2022-08-07,Maintenance
+bba12642-f4a8-4cd3-94b7-e75b835875c3,GPS,a4efedef-24cb-4b4e-b825-a7e1e80d2403,Ship,2023-06-25,Maintenance
+188417d8-fe9f-4ff6-98bc-2c7ad112460c,Pressure Sensor,66f1b0a0-7a1a-462b-ba13-834fde8e3228,Ship,2022-11-11,Active
+052ba051-3c24-4ca5-9042-5d14e6b0643c,Humidity Sensor,579e9b08-5db1-4edf-ba29-559dc81a58a6,Ship,2022-11-25,Maintenance
+d2d6840d-1871-4121-89e8-060c0a8f541d,Temperature Sensor,120a202f-e11a-45c3-a5ef-c3a9503a65d5,Container,2023-08-16,Inactive
+176b2101-4fe5-443b-bae8-d99feee05fb7,Humidity Sensor,6250e9f9-08d1-4e63-a7e8-aeae24a703e3,Container,2023-09-27,Active
+64327fe8-decc-4c5b-968d-4f41d0d65fdd,Humidity Sensor,44ee5071-5745-4f5a-ae08-85fc5da23c06,Ship,2022-09-05,Active
+e4600a02-c5ac-4612-a0de-5de4b5b46896,Pressure Sensor,c6f6d1d5-3b77-4a5f-9860-76e3832d5e70,Ship,2023-08-30,Inactive
+ec1ac8a3-ed51-4a2b-b13a-2ff393658891,Humidity Sensor,7ae398cf-8ace-47d3-a73e-f518c6cbb179,Ship,2023-04-09,Active
+dd4b2f7e-f559-4dc7-87fd-e43c9c7221e4,Temperature Sensor,66f1b0a0-7a1a-462b-ba13-834fde8e3228,Container,2023-01-22,Inactive
+4ba4d5e2-4718-412c-b2a5-64ffe195f855,Temperature Sensor,1,Ship,2024-01-07,Maintenance
+9722bf90-2f07-4516-a8a1-4cd328a3938c,Humidity Sensor,7c34e6eb-aeaa-4c48-94f1-a7a37378e6ca,Ship,2022-12-18,Inactive
+214e10ee-230c-4ebd-b9dc-2c06f3807543,GPS,c6f6d1d5-3b77-4a5f-9860-76e3832d5e70,Ship,2023-07-25,Active
+7efa4e99-4204-4f8c-ba72-a669e03cc361,GPS,777cd128-9f51-4184-a79d-4d5fab6fc9e7,Container,2023-04-07,Inactive
+bc031029-2530-43ae-8db1-762ec9d9db15,Temperature Sensor,c6f6d1d5-3b77-4a5f-9860-76e3832d5e70,Ship,2024-01-02,Maintenance
